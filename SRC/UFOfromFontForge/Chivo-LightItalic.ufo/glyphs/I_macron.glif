@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="365"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="88" y="911" type="line"/>
+      <point x="406" y="911" type="line"/>
+      <point x="398" y="866" type="line"/>
+      <point x="80" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="686" type="line"/>
+      <point x="314" y="637" type="line"/>
+      <point x="235" y="637" type="line"/>
+      <point x="152" y="49" type="line"/>
+      <point x="231" y="49" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="19" y="49" type="line"/>
+      <point x="98" y="49" type="line"/>
+      <point x="181" y="637" type="line"/>
+      <point x="102" y="637" type="line"/>
+      <point x="109" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>637</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>866</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>12</integer>
+            <key>width</key>
+            <integer>394</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

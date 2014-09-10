@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estimated" format="1">
+  <advance width="780"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="138" y="150" type="line"/>
+      <point x="199" y="70" type="line"/>
+      <point x="199" y="599" type="line"/>
+      <point x="138" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="599" type="line"/>
+      <point x="608" y="337" type="line"/>
+      <point x="672" y="337" type="line"/>
+      <point x="672" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="316" type="line"/>
+      <point x="687" y="316" type="line"/>
+      <point x="687" y="364" type="line"/>
+      <point x="127" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="316" type="line"/>
+      <point x="709" y="368" type="line" smooth="yes"/>
+      <point x="709" y="573"/>
+      <point x="587" y="696"/>
+      <point x="405" y="696" type="curve" smooth="yes"/>
+      <point x="223" y="696"/>
+      <point x="101" y="573"/>
+      <point x="101" y="367" type="curve" smooth="yes"/>
+      <point x="101" y="319" type="line" smooth="yes"/>
+      <point x="101" y="113"/>
+      <point x="228" y="-10"/>
+      <point x="413" y="-10" type="curve" smooth="yes"/>
+      <point x="520" y="-10"/>
+      <point x="605" y="31"/>
+      <point x="660" y="105" type="curve"/>
+      <point x="622" y="135" type="line"/>
+      <point x="576" y="69"/>
+      <point x="504" y="35"/>
+      <point x="415" y="35" type="curve" smooth="yes"/>
+      <point x="261" y="35"/>
+      <point x="151" y="137"/>
+      <point x="151" y="319" type="curve" smooth="yes"/>
+      <point x="151" y="367" type="line" smooth="yes"/>
+      <point x="151" y="549"/>
+      <point x="254" y="651"/>
+      <point x="406" y="651" type="curve" smooth="yes"/>
+      <point x="558" y="651"/>
+      <point x="659" y="549"/>
+      <point x="659" y="366" type="curve" smooth="yes"/>
+      <point x="659" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

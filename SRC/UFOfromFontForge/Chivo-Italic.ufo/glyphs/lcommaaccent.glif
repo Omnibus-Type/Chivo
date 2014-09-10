@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="1">
+  <advance width="268"/>
+  <unicode hex="013C"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="147" y="720" type="line"/>
+      <point x="241" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="-125" type="line"/>
+      <point x="78" y="-250" type="line"/>
+      <point x="25" y="-250" type="line"/>
+      <point x="61" y="-151" type="line"/>
+      <point x="20" y="-151" type="line"/>
+      <point x="36" y="-40" type="line"/>
+      <point x="137" y="-40" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="0" type="move" name="Bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-151</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>700</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>20</integer>
+            <key>width</key>
+            <integer>221</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

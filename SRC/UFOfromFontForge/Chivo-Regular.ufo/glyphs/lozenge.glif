@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="490"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="461" y="343" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="29" y="343" type="line"/>
+      <point x="194" y="686" type="line"/>
+      <point x="297" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="343" type="line"/>
+      <point x="246" y="74" type="line"/>
+      <point x="290" y="164"/>
+      <point x="334" y="254"/>
+      <point x="379" y="343" type="curve"/>
+      <point x="334" y="432"/>
+      <point x="290" y="521"/>
+      <point x="246" y="611" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>611</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>666</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>432</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

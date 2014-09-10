@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="538"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="216" y="575" type="line"/>
+      <point x="319" y="575" type="line"/>
+      <point x="364" y="623"/>
+      <point x="410" y="672"/>
+      <point x="456" y="720" type="curve"/>
+      <point x="352" y="720" type="line"/>
+      <point x="268" y="637" type="line"/>
+      <point x="183" y="720" type="line"/>
+      <point x="78" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="511" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

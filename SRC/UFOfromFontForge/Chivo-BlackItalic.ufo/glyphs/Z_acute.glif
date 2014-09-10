@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="607"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="526" y="892" type="line"/>
+      <point x="380" y="750" type="line"/>
+      <point x="262" y="750" type="line"/>
+      <point x="374" y="895" type="line"/>
+      <point x="525" y="895" type="line"/>
+    </contour>
+    <contour>
+      <point x="623" y="625" type="line"/>
+      <point x="294" y="161" type="line"/>
+      <point x="566" y="161" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="-27" y="0" type="line"/>
+      <point x="-18" y="61" type="line"/>
+      <point x="315" y="526" type="line"/>
+      <point x="70" y="526" type="line"/>
+      <point x="93" y="686" type="line"/>
+      <point x="632" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>161</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>750</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-27</integer>
+            <key>width</key>
+            <integer>659</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

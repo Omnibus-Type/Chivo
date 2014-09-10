@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="621"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="202" y="686" type="line"/>
+      <point x="145" y="279" type="line"/>
+      <point x="565" y="686" type="line"/>
+      <point x="629" y="686" type="line"/>
+      <point x="320" y="387" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="277" y="346" type="line"/>
+      <point x="135" y="208" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="148" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="-250" type="line"/>
+      <point x="206" y="-250" type="line" smooth="yes"/>
+      <point x="207" y="-250"/>
+      <point x="244" y="-149"/>
+      <point x="244" y="-149" type="curve"/>
+      <point x="220" y="-149" type="line"/>
+      <point x="229" y="-80" type="line"/>
+      <point x="294" y="-80" type="line"/>
+      <point x="286" y="-138" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="0" type="move" name="Bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-149</integer>
+            <key>width</key>
+            <integer>69</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>666</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>224</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

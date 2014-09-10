@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="897"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="217" y="289" type="line"/>
+      <point x="175" y="289" type="line"/>
+      <point x="175" y="648" type="line"/>
+      <point x="46" y="648" type="line"/>
+      <point x="46" y="686" type="line"/>
+      <point x="345" y="686" type="line"/>
+      <point x="345" y="648" type="line"/>
+      <point x="217" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="289" type="line"/>
+      <point x="732" y="627" type="line"/>
+      <point x="684" y="517"/>
+      <point x="628" y="398"/>
+      <point x="580" y="289" type="curve"/>
+      <point x="550" y="289" type="line"/>
+      <point x="401" y="623" type="line"/>
+      <point x="401" y="289" type="line"/>
+      <point x="365" y="289" type="line"/>
+      <point x="365" y="686" type="line"/>
+      <point x="422" y="686" type="line"/>
+      <point x="569" y="346" type="line"/>
+      <point x="719" y="686" type="line"/>
+      <point x="775" y="686" type="line"/>
+      <point x="775" y="289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>648</integer>
+            <key>width</key>
+            <integer>38</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>175</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>365</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>732</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

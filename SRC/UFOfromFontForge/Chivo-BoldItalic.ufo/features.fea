@@ -1,0 +1,144 @@
+# Prefix: Prefix
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+# GSUB
+lookup aaltAccessAllAlternateslookup0 {
+lookupflag 0;
+sub \A by \ordfeminine ;
+sub \O by \ordmasculine ;
+sub \a by \ordfeminine ;
+sub \o by \ordmasculine ;
+sub \one by \onesuperior ;
+sub \two by \twosuperior ;
+sub \three by \threesuperior ;
+} aaltAccessAllAlternateslookup0;
+lookup supsSuperscriptlookup1 {
+lookupflag 0;
+sub \one by \onesuperior ;
+sub \two by \twosuperior ;
+sub \three by \threesuperior ;
+} supsSuperscriptlookup1;
+lookup fracDiagonalFractionslookup2 {
+lookupflag 0;
+sub \one \slash \two  by \onehalf;
+sub \one \slash \four  by \onequarter;
+sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup2;
+lookup SingleSubstitutionlookup5 {
+lookupflag 0;
+sub \A by \ordfeminine ;
+sub \O by \ordmasculine ;
+sub \a by \ordfeminine ;
+sub \o by \ordmasculine ;
+} SingleSubstitutionlookup5;
+lookup ordnOrdinalslookup3 {
+lookupflag 0;
+sub [ \zero \one \two \three \four \five \six \seven \eight \nine  ] [ \A \a  ]'lookup SingleSubstitutionlookup5  ;
+subtable;
+sub [ \zero \one \two \three \four \five \six \seven \eight \nine  ] [ \O \o  ]'lookup SingleSubstitutionlookup5  ;
+} ordnOrdinalslookup3;
+lookup ligaStandardLigatureslookup4 {
+lookupflag 0;
+sub \f \i  by \fi;
+sub \f \l  by \fl;
+} ligaStandardLigatureslookup4;
+
+feature aalt {
+script DFLT;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+
+ script grek;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+
+ script latn;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+} aalt;
+
+feature sups {
+script DFLT;
+     language dflt ;
+      lookup supsSuperscriptlookup1;
+
+ script grek;
+     language dflt ;
+      lookup supsSuperscriptlookup1;
+
+ script latn;
+     language dflt ;
+      lookup supsSuperscriptlookup1;
+} sups;
+
+feature frac {
+script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+
+ script grek;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+} frac;
+
+feature ordn {
+script DFLT;
+     language dflt ;
+      lookup ordnOrdinalslookup3;
+
+ script grek;
+     language dflt ;
+      lookup ordnOrdinalslookup3;
+
+ script latn;
+     language dflt ;
+      lookup ordnOrdinalslookup3;
+} ordn;
+
+feature liga {
+script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup4;
+
+ script grek;
+     language dflt ;
+      lookup ligaStandardLigatureslookup4;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup4;
+} liga;
+
+feature cpsp {
+script DFLT;
+     language dflt ;
+      lookup cpspCapitalSpacinglookup0;
+
+ script grek;
+     language dflt ;
+      lookup cpspCapitalSpacinglookup0;
+
+ script latn;
+     language dflt ;
+      lookup cpspCapitalSpacinglookup0;
+} cpsp;
+
+feature mark {
+script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+ script grek;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+ script latn;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+} mark;
+

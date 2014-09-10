@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="540"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="move" name="Bottom"/>
+    </contour>
+    <contour>
+      <point x="252" y="168" type="line"/>
+      <point x="497" y="168" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="113" y="686" type="line"/>
+      <point x="325" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="-139" type="line"/>
+      <point x="301" y="-250" type="line"/>
+      <point x="207" y="-250" type="line"/>
+      <point x="235" y="-171" type="line"/>
+      <point x="150" y="-171" type="line"/>
+      <point x="171" y="-20" type="line"/>
+      <point x="362" y="-20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-171</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>168</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>666</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>16</integer>
+            <key>width</key>
+            <integer>481</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+  <advance width="261"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="141" y="720" type="line"/>
+      <point x="129" y="633" type="line"/>
+      <point x="227" y="633" type="line"/>
+      <point x="239" y="720" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+    <component base="ogonek" xOffset="-53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
