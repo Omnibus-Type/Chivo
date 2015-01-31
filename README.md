@@ -5,7 +5,7 @@
 
 Chivo (Goat) is a new Omnibus-Type grotesque Sans Serif typeface family. The strength of Chivo Black makes it ideal for highlights and headlines. Chivo Regular's elegance makes it ideal for combining with the strength of Chivo Black and for for continuous reading settings. Its design details make it an indispensable ally for any designer.
 
-![Sample of Chivo Family.](Chivo.gif "Chivo Family")
+![Sample of Chivo Family.](SRC/Chivo.jpg "Chivo Family")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -15,7 +15,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Chivo Family'.
+Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -46,6 +46,15 @@ This information should be distributed along with the Chivo Family fonts and any
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **ChangeLog**
+
+**30 January 2015 (Nicolas Silva) Chivo Family v1.003**  
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- Added Family Alignment Zones
+- New Verical Metrics
 
 **09 Sept 2014 (Hector Gatti & Nicolas Silva) Chivo Family v1.002** 
 - Added Light and Bold fonts with Adobe Latin 3 character set

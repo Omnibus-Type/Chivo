@@ -1,6 +1,5 @@
-Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),
-Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),
-with Reserved Font Names **Chivo**.
+Copyright (c) 2010-2015, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),
+Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com).
 
 
 
