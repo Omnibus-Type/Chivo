@@ -47,14 +47,18 @@ This information should be distributed along with the Chivo Family fonts and any
 
 **ChangeLog**
 
-**30 January 2015 (Nicolas Silva) Chivo Family v1.003**  
-- Removed Reserve Font Name from the license
-- Name tables adjusted
+**17 February 2016 (Nicolas Silva) Chivo Family v1.004**  
+- Name tables adjusted for better compatibility with Microsoft Word for Mac  
 - fsType Installable Mode
-- Set Panose values
-- Updates CFF and TTF hinting
-- Added Family Alignment Zones
-- New Verical Metrics
+
+**30 January 2015 (Nicolas Silva) Chivo Family v1.003**  
+- Removed Reserve Font Name from the license  
+- Name tables adjusted  
+- fsType Installable Mode  
+- Set Panose values  
+- Updates CFF and TTF hinting  
+- Added Family Alignment Zones  
+- New Verical Metrics  
 
 **09 Sept 2014 (Hector Gatti & Nicolas Silva) Chivo Family v1.002** 
 - Added Light and Bold fonts with Adobe Latin 3 character set
