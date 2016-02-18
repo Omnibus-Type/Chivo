@@ -386,7 +386,7 @@ fl,
 date = "2016-02-17 18:24:51 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
-familyName = "ChivoLight";
+familyName = "ChivoExt";
 featurePrefixes = (
 {
 automatic = 1;
@@ -24565,7 +24565,6 @@ width = 219;
 );
 instances = (
 {
-exports = 0;
 customParameters = (
 {
 name = panose;
@@ -24584,7 +24583,7 @@ value = (
 },
 {
 name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --strong-stem-width=gD";
+value = "--default-script=latn --fallback-script=latn --windows-compatibility --strong-stem-width=gGD";
 },
 {
 name = "Save as TrueType";
@@ -24601,10 +24600,22 @@ value = Light;
 {
 name = fileName;
 value = "Chivo-Light";
+},
+{
+name = familyName;
+value = Chivo;
+},
+{
+name = postscriptFontName;
+value = "ChivoExt-Italic";
+},
+{
+name = postscriptFullName;
+value = "ChivoExt-Italic";
 }
 );
 interpolationWeight = 51;
-name = Regular;
+name = Light;
 weightClass = Light;
 },
 {
@@ -24635,10 +24646,22 @@ value = Light;
 {
 name = fileName;
 value = "Chivo-Light";
+},
+{
+name = familyName;
+value = Chivo;
+},
+{
+name = postscriptFontName;
+value = "ChivoExt-Light";
+},
+{
+name = postscriptFullName;
+value = "ChivoExt-Light";
 }
 );
 interpolationWeight = 51;
-name = Regular;
+name = Light;
 weightClass = Light;
 }
 );
@@ -27765,5 +27788,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }

@@ -386,7 +386,7 @@ fl,
 date = "2016-02-17 18:24:50 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
-familyName = "ChivoBlackItalic";
+familyName = "ChivoExt";
 featurePrefixes = (
 {
 automatic = 1;
@@ -26082,7 +26082,6 @@ width = 265;
 );
 instances = (
 {
-exports = 0;
 customParameters = (
 {
 name = panose;
@@ -26101,7 +26100,7 @@ value = (
 },
 {
 name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --strong-stem-width=gD";
+value = "--default-script=latn --fallback-script=latn --windows-compatibility --strong-stem-width=gGD";
 },
 {
 name = "Save as TrueType";
@@ -26118,10 +26117,25 @@ value = "Black Italic";
 {
 name = fileName;
 value = "Chivo-BlackItalic";
+},
+{
+name = familyName;
+value = Chivo;
+},
+{
+name = postscriptFontName;
+value = "ChivoExt-BlackItal";
+},
+{
+name = postscriptFullName;
+value = "ChivoExt-BlackItalic";
 }
 );
 interpolationWeight = 198;
-name = Regular;
+isBold = 1;
+isItalic = 1;
+linkStyle = Light;
+name = Black;
 weightClass = Black;
 },
 {
@@ -26152,10 +26166,25 @@ value = "Black Italic";
 {
 name = fileName;
 value = "Chivo-BlackItalic";
+},
+{
+name = familyName;
+value = Chivo;
+},
+{
+name = postscriptFontName;
+value = "ChivoExt-BlackItal";
+},
+{
+name = postscriptFullName;
+value = "ChivoExt-BlackItalic";
 }
 );
 interpolationWeight = 198;
-name = Regular;
+isBold = 1;
+isItalic = 1;
+linkStyle = Light;
+name = Black;
 weightClass = Black;
 }
 );
@@ -27555,5 +27584,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
