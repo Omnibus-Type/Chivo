@@ -383,7 +383,7 @@ fl,
 );
 }
 );
-date = "2016-02-17 18:24:59 +0000";
+date = "2016-02-18 17:55:28 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
 familyName = "Chivo";
@@ -25164,6 +25164,7 @@ width = 277;
 );
 instances = (
 {
+exports = 0;
 customParameters = (
 {
 name = panose;
@@ -25179,10 +25180,6 @@ value = (
 8,
 4
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --strong-stem-width=gD";
 },
 {
 name = "Save as TrueType";
@@ -25557,5 +25554,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 6;
 }
