@@ -83,6 +83,17 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Family Alignment Zones";
+value = (
+"{720, 8}",
+"{686, 10}",
+"{551, 10}",
+"{511, 10}",
+"{0, -10}",
+"{-181, -7}"
+);
 }
 );
 date = "2018-11-01 00:25:20 +0000";
@@ -89037,6 +89048,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "8F3315DA-A8CB-43B6-A496-83A18984EDD5" = 1;
 };
+isItalic = 1;
 name = Italic;
 },
 {
@@ -89054,6 +89066,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "B761BB45-E103-41B9-A767-1F2A3FFB8B31" = 1;
 };
+isBold = 1;
+isItalic = 1;
 name = "Bold Italic";
 weightClass = Bold;
 },

@@ -84,6 +84,17 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Family Alignment Zones";
+value = (
+"{720, 8}",
+"{686, 10}",
+"{551, 10}",
+"{511, 10}",
+"{0, -10}",
+"{-181, -7}"
+);
 }
 );
 date = "2018-11-01 00:24:29 +0000";
@@ -89822,6 +89833,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "4FE665F2-115E-4010-81D6-04A4227E19CC" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
