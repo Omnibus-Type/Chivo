@@ -11,11 +11,11 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
 
-* Hector Gatti
+* Héctor Gatti
 
 ### License
 
-Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -47,11 +47,15 @@ This information should be distributed along with the Chivo Family fonts and any
 
 **ChangeLog**
 
-**17 February 2016 (Nicolas Silva) Chivo Family v1.004**  
+**31 October 2018 Chivo Family v1.007**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
+
+**17 February 2016 (Nicolás Silva) Chivo Family v1.004**  
 - Name tables adjusted for better compatibility with Microsoft Word for Mac  
 - fsType Installable Mode
 
-**30 January 2015 (Nicolas Silva) Chivo Family v1.003**  
+**30 January 2015 (Nicolás Silva) Chivo Family v1.003**  
 - Removed Reserve Font Name from the license  
 - Name tables adjusted  
 - fsType Installable Mode  
@@ -60,10 +64,10 @@ This information should be distributed along with the Chivo Family fonts and any
 - Added Family Alignment Zones  
 - New Verical Metrics  
 
-**09 Sept 2014 (Hector Gatti & Nicolas Silva) Chivo Family v1.002** 
+**09 Sept 2014 (Héctor Gatti & Nicolás Silva) Chivo Family v1.002** 
 - Added Light and Bold fonts with Adobe Latin 3 character set
 
-**30 Nov 2011 (Hector Gatti & Igino Marini) Chivo Family v.1.000**
+**30 Nov 2011 (Héctor Gatti & Igino Marini) Chivo Family v.1.000**
 - Initial release under SIL Open Font License
 
 Block              | Range
@@ -85,7 +89,7 @@ Latin Extended-A   | U+0100-U+017F
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer  
@@ -95,7 +99,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.ikern.com  
 **D:** Spacing and Kerning  
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development (AL3 support)  
