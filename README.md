@@ -5,7 +5,8 @@
 
 Chivo (Goat) is a new Omnibus-Type grotesque Sans Serif typeface family. The strength of Chivo Black makes it ideal for highlights and headlines. Chivo Regular's elegance makes it ideal for combining with the strength of Chivo Black and for for continuous reading settings. Its design details make it an indispensable ally for any designer.
 
-![Sample of Chivo Family.](Chivo.jpg "Chivo Family")
+![Sample of Chivo Family.](Chivo-01.png "Chivo Family")
+![Sample of Chivo Family.](Chivo-02.png "Chivo Family")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
