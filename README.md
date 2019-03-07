@@ -8,6 +8,15 @@ Chivo (Goat) is a new Omnibus-Type grotesque Sans Serif typeface family. The str
 ![Sample of Chivo Family.](Chivo-01.png "Chivo Family")
 ![Sample of Chivo Family.](Chivo-02.png "Chivo Family")
 
+#### Chivo Family contains:
+* thin /  thin italic
+* light / light italic
+* regular / italic
+* medium / medium italic
+* bold / bold italic
+* extrabold / extrabold italic
+* black / black italic
+
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
@@ -49,6 +58,7 @@ This information should be distributed along with the Chivo Family fonts and any
 **ChangeLog**
 
 **31 October 2018 Chivo Family v1.007**
+- New weights: thin, thin italic, medium, medium italic, extrabold, extrabold italic
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
 
