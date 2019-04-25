@@ -1,9 +1,10 @@
 # Chivo Family
 
-**Omnibus-Type**  
-*SIL Open Font License, 1.1*
+**Gatti & Omnibus-Type Team**
+*SIL Open Font License 1.1,*
+*14 fonts, 843 glyphs each variant*
 
-Chivo (Goat) is a new Omnibus-Type grotesque Sans Serif typeface family. The strength of Chivo Black makes it ideal for highlights and headlines. Chivo Regular's elegance makes it ideal for combining with the strength of Chivo Black and for for continuous reading settings. Its design details make it an indispensable ally for any designer.
+Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface family. It has 7 weight variants, plus matching italics. Its solidness and balanced strokes give Chivo both elegance and practicality. Chivo Regular works perfectly in long-reading texts, while Chivo Black is ideal for headlines, banners and highlights. Developed by Héctor Gatti, this is an indispensable ally for any designer.
 
 ![Sample of Chivo Family.](Chivo-01.png "Chivo Family")
 ![Sample of Chivo Family.](Chivo-02.png "Chivo Family")
