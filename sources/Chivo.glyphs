@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1300";
 DisplayStrings = (
 "/ij",
 A
@@ -50,7 +50,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
+copyright = "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
 customParameters = (
 {
 name = trademark;
@@ -95,9 +95,21 @@ value = (
 "{0, -10}",
 "{-181, -7}"
 );
+},
+{
+name = "Variable Font Family Name";
+value = Chivo;
+},
+{
+name = "Variable Font File Name";
+value = Chivo;
+},
+{
+name = "Variable Font Origin";
+value = "86BFE29D-DE3A-4B42-8FD7-32CE7A5DD9A0";
 }
 );
-date = "2018-11-01 00:24:29 +0000";
+date = "2020-03-07 17:12:33 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;

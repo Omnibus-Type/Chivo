@@ -1,8 +1,5 @@
 {
-.appVersion = "1216";
-DisplayStrings = (
-"/ij"
-);
+.appVersion = "1300";
 classes = (
 {
 automatic = 1;
@@ -49,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
+copyright = "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
 customParameters = (
 {
 name = trademark;
@@ -94,9 +91,21 @@ value = (
 "{0, -10}",
 "{-181, -7}"
 );
+},
+{
+name = "Variable Font Family Name";
+value = Chivo;
+},
+{
+name = "Variable Font File Name";
+value = "Chivo Italic";
+},
+{
+name = "Variable Font Origin";
+value = "8F3315DA-A8CB-43B6-A496-83A18984EDD5";
 }
 );
-date = "2018-11-01 00:25:20 +0000";
+date = "2020-03-07 17:12:48 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -42973,7 +42982,7 @@ nodes = (
 "514 86 OFFCURVE",
 "533 221 CURVE SMOOTH",
 "563 431 OFFCURVE",
-"570 457 OFFCURVE",
+"570 467 OFFCURVE",
 "570 499 CURVE SMOOTH",
 "570 615 OFFCURVE",
 "488 696 OFFCURVE",
@@ -42986,7 +42995,7 @@ nodes = (
 "425 607 OFFCURVE",
 "472 559 OFFCURVE",
 "472 491 CURVE SMOOTH",
-"472 476 OFFCURVE",
+"472 479 OFFCURVE",
 "471 472 OFFCURVE",
 "434 214 CURVE SMOOTH",
 "423 137 OFFCURVE",
@@ -42995,7 +43004,7 @@ nodes = (
 "202 79 OFFCURVE",
 "157 126 OFFCURVE",
 "157 194 CURVE SMOOTH",
-"157 210 OFFCURVE",
+"157 207 OFFCURVE",
 "158 214 OFFCURVE",
 "195 472 CURVE SMOOTH",
 "206 549 OFFCURVE",
@@ -43007,7 +43016,7 @@ nodes = (
 width = 615;
 },
 {
-layerId = "4BBFD287-7A5F-4332-B846-65FFBCBF0D57";
+background = {
 paths = (
 {
 closed = 1;
@@ -43016,17 +43025,17 @@ nodes = (
 "231 696 OFFCURVE",
 "136 608 OFFCURVE",
 "117 475 CURVE SMOOTH",
-"83 231 OFFCURVE",
-"77 195 OFFCURVE",
+"104 374 OFFCURVE",
+"77 194 OFFCURVE",
 "77 173 CURVE SMOOTH",
 "77 62 OFFCURVE",
 "154 -10 OFFCURVE",
 "266 -10 CURVE SMOOTH",
 "274 -10 LINE SMOOTH",
 "411 -10 OFFCURVE",
-"503 78 OFFCURVE",
-"522 211 CURVE SMOOTH",
-"557 458 OFFCURVE",
+"504 78 OFFCURVE",
+"523 211 CURVE SMOOTH",
+"559 458 OFFCURVE",
 "562 491 OFFCURVE",
 "562 512 CURVE SMOOTH",
 "562 624 OFFCURVE",
@@ -43040,8 +43049,8 @@ nodes = (
 "449 648 OFFCURVE",
 "508 589 OFFCURVE",
 "508 506 CURVE SMOOTH",
-"508 495 OFFCURVE",
-"509 504 OFFCURVE",
+"508 503 OFFCURVE",
+"481 305 OFFCURVE",
 "467 205 CURVE SMOOTH",
 "453 109 OFFCURVE",
 "373 38 OFFCURVE",
@@ -43049,8 +43058,60 @@ nodes = (
 "190 38 OFFCURVE",
 "131 97 OFFCURVE",
 "131 180 CURVE SMOOTH",
-"131 191 OFFCURVE",
+"131 197 OFFCURVE",
 "130 182 OFFCURVE",
+"172 481 CURVE SMOOTH",
+"185 577 OFFCURVE",
+"265 648 OFFCURVE",
+"362 648 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "4BBFD287-7A5F-4332-B846-65FFBCBF0D57";
+paths = (
+{
+closed = 1;
+nodes = (
+"365 696 LINE SMOOTH",
+"231 696 OFFCURVE",
+"136 608 OFFCURVE",
+"117 475 CURVE SMOOTH",
+"104 374 OFFCURVE",
+"77 194 OFFCURVE",
+"77 173 CURVE SMOOTH",
+"77 62 OFFCURVE",
+"154 -10 OFFCURVE",
+"266 -10 CURVE SMOOTH",
+"274 -10 LINE SMOOTH",
+"411 -10 OFFCURVE",
+"504 78 OFFCURVE",
+"523 211 CURVE SMOOTH",
+"559 458 OFFCURVE",
+"562 491 OFFCURVE",
+"562 512 CURVE SMOOTH",
+"562 624 OFFCURVE",
+"485 696 OFFCURVE",
+"373 696 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 648 OFFCURVE",
+"508 589 OFFCURVE",
+"508 506 CURVE SMOOTH",
+"508 503 OFFCURVE",
+"481 305 OFFCURVE",
+"467 205 CURVE SMOOTH",
+"453 109 OFFCURVE",
+"373 38 OFFCURVE",
+"277 38 CURVE SMOOTH",
+"190 38 OFFCURVE",
+"131 97 OFFCURVE",
+"131 180 CURVE SMOOTH",
+"131 188 OFFCURVE",
+"158 381 OFFCURVE",
 "172 481 CURVE SMOOTH",
 "185 577 OFFCURVE",
 "265 648 OFFCURVE",
@@ -43067,10 +43128,10 @@ paths = (
 closed = 1;
 nodes = (
 "340 696 LINE SMOOTH",
-"199 696 OFFCURVE",
-"86 598 OFFCURVE",
+"191 696 OFFCURVE",
+"89 604 OFFCURVE",
 "66 455 CURVE SMOOTH",
-"47 324 OFFCURVE",
+"46 324 OFFCURVE",
 "32 226 OFFCURVE",
 "32 194 CURVE SMOOTH",
 "32 76 OFFCURVE",
@@ -43079,8 +43140,8 @@ nodes = (
 "270 -10 LINE SMOOTH",
 "422 -10 OFFCURVE",
 "524 94 OFFCURVE",
-"543 230 CURVE SMOOTH",
-"561 360 OFFCURVE",
+"546 230 CURVE SMOOTH",
+"567 360 OFFCURVE",
 "577 444 OFFCURVE",
 "577 489 CURVE SMOOTH",
 "577 608 OFFCURVE",
@@ -43095,9 +43156,9 @@ nodes = (
 "431 530 OFFCURVE",
 "431 490 CURVE SMOOTH",
 "431 473 OFFCURVE",
-"414 360 OFFCURVE",
+"415 360 OFFCURVE",
 "393 214 CURVE SMOOTH",
-"385 154 OFFCURVE",
+"384 154 OFFCURVE",
 "343 107 OFFCURVE",
 "271 107 CURVE SMOOTH",
 "216 107 OFFCURVE",
@@ -43135,7 +43196,7 @@ nodes = (
 "553 101 OFFCURVE",
 "573 240 CURVE SMOOTH",
 "597 409 OFFCURVE",
-"604 451 OFFCURVE",
+"604 459 OFFCURVE",
 "604 480 CURVE SMOOTH",
 "604 603 OFFCURVE",
 "513 696 OFFCURVE",
@@ -43157,8 +43218,8 @@ nodes = (
 "248 135 OFFCURVE",
 "222 163 OFFCURVE",
 "222 202 CURVE SMOOTH",
-"222 212 OFFCURVE",
-"229 258 OFFCURVE",
+"222 214 OFFCURVE",
+"247 382 OFFCURVE",
 "259 472 CURVE SMOOTH",
 "267 529 OFFCURVE",
 "302 552 OFFCURVE",
@@ -89030,6 +89091,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "4BBFD287-7A5F-4332-B846-65FFBCBF0D57" = 1;
 };
+isItalic = 1;
+linkStyle = Thin;
 name = "Thin Italic";
 weightClass = Thin;
 },
@@ -89039,6 +89102,8 @@ instanceInterpolations = {
 "4BBFD287-7A5F-4332-B846-65FFBCBF0D57" = 0.53488;
 "8F3315DA-A8CB-43B6-A496-83A18984EDD5" = 0.46512;
 };
+isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
@@ -89057,6 +89122,8 @@ instanceInterpolations = {
 "8F3315DA-A8CB-43B6-A496-83A18984EDD5" = 0.53846;
 "B761BB45-E103-41B9-A767-1F2A3FFB8B31" = 0.46154;
 };
+isItalic = 1;
+linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
 },
@@ -89077,6 +89144,8 @@ instanceInterpolations = {
 "4FDE33F5-0064-4818-A7C2-FB87252213B5" = 0.48077;
 "B761BB45-E103-41B9-A767-1F2A3FFB8B31" = 0.51923;
 };
+isItalic = 1;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
@@ -89086,6 +89155,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "4FDE33F5-0064-4818-A7C2-FB87252213B5" = 1;
 };
+isItalic = 1;
+linkStyle = Black;
 name = "Black Italic";
 weightClass = Black;
 }
@@ -90978,6 +91049,9 @@ slash = -44;
 manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
+userData = {
+LWPluginVersion = "1392";
+};
 versionMajor = 1;
 versionMinor = 7;
 }
