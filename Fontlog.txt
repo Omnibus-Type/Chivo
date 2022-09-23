@@ -1,0 +1,89 @@
+FONTLOG for the Chivo fonts
+
+This file provides detailed information on the Chivo Font Software.
+This information should be distributed along with the Chivo fonts
+and any derivative works.
+
+Basic Font Information
+
+Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface family. It has 9 weight variants, plus matching italics. Its solidness and balanced strokes give Chivo both elegance and practicality. Chivo Regular works perfectly in long-reading texts, while Chivo Black is ideal for headlines, banners and highlights. Developed by Héctor Gatti, this is an indispensable ally for any designer.
+
+To contribute to the project contact Omnibus-Type 
+at omnibus.type@gmail.com
+
+**ChangeLog**
+
+**9 Sept 2022 (v.2.0) Omnibus-Type** 
+- Big Update to Variable Font
+- Axes weight (100..900)
+
+**31 October 2018 Chivo Family v1.007**
+- New weights: thin, thin italic, medium, medium italic, extrabold, extrabold italic
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
+
+**17 February 2016 (Nicolás Silva) Chivo Family v1.004**  
+- Name tables adjusted for better compatibility with Microsoft Word for Mac  
+- fsType Installable Mode
+
+**30 January 2015 (Nicolás Silva) Chivo Family v1.003**  
+- Removed Reserve Font Name from the license  
+- Name tables adjusted  
+- fsType Installable Mode  
+- Set Panose values  
+- Updates CFF and TTF hinting  
+- Added Family Alignment Zones  
+- New Verical Metrics  
+
+**09 Sept 2014 (Héctor Gatti & Nicolás Silva) Chivo Family v1.002** 
+- Added Light and Bold fonts with Adobe Latin 3 character set
+
+**30 Nov 2011 (Héctor Gatti & Igino Marini) Chivo Family v.1.000**
+- Initial release under SIL Open Font License
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+**N:** **Héctor Gatti**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer  
+
+**N:** **Rafael Dietzsch**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer 
+
+**N:** **Oscar Guerrero**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer
+
+**N:** **Pablo Cosgaya**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Assistant Designer
+
+**N:** **Eduardo Rodríguez Tunni**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
+
+**N:** **Nicolás Silva**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development (AL3 support)  
+
+**N:** **Marc Foley**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer 
+
+**N:** **Igino Marini**  
+**E:** mail@iginomarini.com  
+**W:** http://www.ikern.com  
+**D:** Spacing and Kerning  
+

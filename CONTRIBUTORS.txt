@@ -9,6 +9,10 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Igino Marini <mail@iginomarini.com> 
-Marc Foley <m.foley.88@gmail.com>
-Nicolás Silva <omnibus.type@gmail.com>
+Oscar Guerrero <omnibus.type@gmail.com>
+Rafael Dietzsch <omnibus.type@gmail.com>
+Eduardo Rodríguez Tunni <omnibus.type@gmail.com>
+Pablo Cosgaya <omnibus.type@gmail.com>
+Marc Foley <omnibus.type@gmail.com>
+Nicolás Silva <omnibus.type@gmail.com>  
+Igino Marini <omnibus.type@gmail.com>

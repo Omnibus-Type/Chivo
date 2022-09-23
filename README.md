@@ -2,12 +2,13 @@
 
 **Gatti & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
-*14 fonts, 843 glyphs each variant*
+*18 fonts, 877 glyphs each variant*
 
 Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface family. It has 7 weight variants, plus matching italics. Its solidness and balanced strokes give Chivo both elegance and practicality. Chivo Regular works perfectly in long-reading texts, while Chivo Black is ideal for headlines, banners and highlights. Developed by Héctor Gatti, this is an indispensable ally for any designer.
 
-![Sample of Chivo Family.](Chivo-01.png "Chivo Family")
-![Sample of Chivo Family.](Chivo-02.png "Chivo Family")
+![Sample of Chivo Family.](Chivo-01.png "Chivo VF")
+![Sample of Chivo Family.](Chivo-Mono-01.png "Chivo Mono VF")
+
 
 #### Chivo Family contains:
 * thin /  thin italic
@@ -20,7 +21,7 @@ Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface f
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
-### Designers
+### Designer
 
 * Héctor Gatti
 
@@ -36,27 +37,13 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 This file provides detailed information on the Chivo Family and Chivo Family One font software.  
 This information should be distributed along with the Chivo Family fonts and any derivative works.
 
-### Chivo Family is a typeface family that supports Unicode language range: 
-
-* Basic Latin (95 glyphs),
-* Latin-1 Supplement (96 glyphs),
-* Latin Extended-A (128 glyphs),
-* Latin Extended-B (7 glyphs),
-* Spacing Modifier Letters (9 glyphs),
-* Latin Extended Additional (8 glyphs),
-* General Punctuation (32 glyphs),
-* Superscripts and Subscripts (1 glyphs),
-* Currency Symbols (4 glyphs),
-* Letterlike Symbols (6 glyphs),
-* Number Forms (4 glyphs),
-* Arrows (7 glyphs),
-* Mathematical Operators (17 glyphs),
-* Miscellaneous Technical (4 glyphs),
-* Alphabetic Presentation Forms (2 glyphs)
-
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **ChangeLog**
+
+**9 Sept 2022 (v.2.0) Omnibus-Type** 
+- Big Update to Variable Font
+- Axes weight (100..900)
 
 **31 October 2018 Chivo Family v1.007**
 - New weights: thin, thin italic, medium, medium italic, extrabold, extrabold italic
@@ -106,17 +93,22 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer  
 
-**N:** **Igino Marini**  
-**E:** mail@iginomarini.com  
-**W:** http://www.ikern.com  
-**D:** Spacing and Kerning  
-
-**N:** **Nicolás Silva**  
+**N:** **Rafael Dietzsch**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development (AL3 support)  
+**D:** Designer 
+
+**N:** **Oscar Guerrero**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer
 
 **N:** **Pablo Cosgaya**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Designer
+**D:** Assistant Designer
+
+**N:** **Eduardo Rodríguez Tunni**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development

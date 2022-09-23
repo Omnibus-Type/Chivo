@@ -5,4 +5,5 @@
 # Names should be added to this file as: 
 # Name or Organization <email address> 
 
+Omnibus-Type
 Héctor Gatti <omnibus.type@gmail.com>
