@@ -6,8 +6,8 @@
 
 Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface family. It has 7 weight variants, plus matching italics. Its solidness and balanced strokes give Chivo both elegance and practicality. Chivo Regular works perfectly in long-reading texts, while Chivo Black is ideal for headlines, banners and highlights. Developed by Héctor Gatti, this is an indispensable ally for any designer.
 
-![Sample of Chivo Family.](Chivo-01.png "Chivo VF")
-![Sample of Chivo Family.](Chivo-Mono-01.png "Chivo Mono VF")
+![Sample of Chivo Family.](documentation/Chivo-01.png "Chivo VF")
+![Sample of Chivo Family.](documentation/Chivo-Mono-01.png "Chivo Mono VF")
 
 
 #### Chivo Family contains:

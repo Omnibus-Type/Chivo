@@ -1,5 +1,5 @@
 {
-.appVersion = "3137";
+.appVersion = "3133";
 .formatVersion = 3;
 axes = (
 {
@@ -62,21 +62,27 @@ name = blueScale;
 value = 0.09996;
 },
 {
-disabled = 1;
-name = "Axis Mappings";
-value = {
-wght = {
-100 = 100;
-200 = 200;
-300 = 300;
-400 = 400;
-500 = 500;
-600 = 600;
-700 = 700;
-800 = 800;
-900 = 900;
-};
-};
+name = isFixedPitch;
+value = 1;
+},
+{
+name = panose;
+value = (
+2,
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = "Variable Font Origin";
+value = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
 }
 );
 date = "2022-04-05 16:31:38 +0000";
@@ -497,15 +503,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -574,7 +571,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -658,15 +655,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -735,7 +723,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -807,21 +795,12 @@ stemValues = (
 },
 {
 axesValues = (
-1000
+900
 );
 customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = a;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 1000;
-}
-);
 },
 {
 name = TTFStems;
@@ -892,7 +871,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -48848,6 +48827,12 @@ color = 4;
 glyphname = f_f;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49000,6 +48985,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49188,6 +49179,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -49294,6 +49291,16 @@ color = 4;
 glyphname = f_f_i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49487,6 +49494,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49692,6 +49709,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -49821,6 +49848,16 @@ color = 4;
 glyphname = f_f_l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49953,6 +49990,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50091,6 +50138,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -50217,6 +50274,12 @@ color = 4;
 glyphname = fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50355,6 +50418,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50507,6 +50576,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -50611,6 +50686,12 @@ color = 4;
 glyphname = fl;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50747,6 +50828,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50894,6 +50981,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -92859,7 +92952,7 @@ shapes = (
 ref = breveacute;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -92898,7 +92991,7 @@ shapes = (
 ref = brevegrave;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -92937,7 +93030,7 @@ shapes = (
 ref = brevehook;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -92976,7 +93069,7 @@ shapes = (
 ref = brevetilde;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93015,7 +93108,7 @@ shapes = (
 ref = circumflexacute;
 }
 );
-width = 540;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93106,7 +93199,7 @@ shapes = (
 ref = circumflexgrave;
 }
 );
-width = 540;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93145,7 +93238,7 @@ shapes = (
 ref = circumflexhook;
 }
 );
-width = 540;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93184,7 +93277,7 @@ shapes = (
 ref = circumflextilde;
 }
 );
-width = 540;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93423,7 +93516,7 @@ shapes = (
 ref = dieresisgrave;
 }
 );
-width = 492;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93494,7 +93587,7 @@ shapes = (
 ref = dieresisacute;
 }
 );
-width = 492;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93533,7 +93626,7 @@ shapes = (
 ref = dieresiscaron;
 }
 );
-width = 492;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93634,7 +93727,7 @@ shapes = (
 ref = dieresismacron;
 }
 );
-width = 492;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -93814,7 +93907,7 @@ shapes = (
 ref = dotaccentmacron;
 }
 );
-width = 492;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -95128,7 +95221,7 @@ shapes = (
 ref = ringacute;
 }
 );
-width = 340;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -95421,7 +95514,7 @@ shapes = (
 ref = tildemacron;
 }
 );
-width = 484;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -95769,7 +95862,7 @@ shapes = (
 ref = breveinverted;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -96783,7 +96876,7 @@ shapes = (
 ref = brevebelow;
 }
 );
-width = 445;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -97674,7 +97767,7 @@ shapes = (
 ref = dieresisgrave.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -97777,7 +97870,7 @@ shapes = (
 ref = dieresisacute.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -97850,7 +97943,7 @@ shapes = (
 ref = dieresiscaron.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -97951,7 +98044,7 @@ shapes = (
 ref = dieresismacron.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -98200,7 +98293,7 @@ shapes = (
 ref = dotaccentmacron.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -98929,7 +99022,7 @@ shapes = (
 ref = circumflexgrave.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99020,7 +99113,7 @@ shapes = (
 ref = circumflexacute.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99059,7 +99152,7 @@ shapes = (
 ref = circumflextilde.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99180,7 +99273,7 @@ shapes = (
 ref = circumflexhook.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99517,7 +99610,7 @@ shapes = (
 ref = brevegrave.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99622,7 +99715,7 @@ shapes = (
 ref = breveacute.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99757,7 +99850,7 @@ shapes = (
 ref = brevetilde.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -99796,7 +99889,7 @@ shapes = (
 ref = brevehook.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -100180,7 +100273,7 @@ shapes = (
 ref = ringacute.cap;
 }
 );
-width = 342;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -100517,7 +100610,7 @@ shapes = (
 ref = tildemacron.cap;
 }
 );
-width = 505;
+width = 600;
 },
 {
 associatedMasterId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -101259,7 +101352,7 @@ pos = (-34,-163);
 ref = dieresiscomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -101412,7 +101505,7 @@ pos = (-34,-163);
 ref = dotaccentcomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -101548,7 +101641,7 @@ pos = (0,-163);
 ref = gravecomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -101686,7 +101779,7 @@ pos = (-37,-163);
 ref = acutecomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -101834,7 +101927,7 @@ pos = (-37,-163);
 ref = hungarumlautcomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -101995,7 +102088,7 @@ pos = (-32,-163);
 ref = circumflexcomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -102115,7 +102208,7 @@ pos = (-35,-163);
 ref = caroncomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -102258,7 +102351,7 @@ pos = (-35,-163);
 ref = brevecomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -102438,7 +102531,7 @@ pos = (-36,-189);
 ref = ringcomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -102639,7 +102732,7 @@ pos = (-34,-163);
 ref = tildecomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -102806,7 +102899,7 @@ pos = (-34,-163);
 ref = macroncomb.cap;
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -108114,7 +108207,7 @@ nodes = (
 );
 }
 );
-width = 237;
+width = 600;
 },
 {
 anchors = (
@@ -108318,7 +108411,7 @@ pos = (-237,0);
 ref = acute.loclPLK;
 }
 );
-width = 0;
+width = 600;
 },
 {
 layerId = "C8A46E0E-B991-4CFC-ABD9-554F5B3B1198";
@@ -108370,7 +108463,7 @@ pos = (-600,0);
 ref = acute.loclPLK.cap;
 }
 );
-width = 0;
+width = 600;
 },
 {
 hints = (
@@ -109178,7 +109271,7 @@ nodes = (
 );
 }
 );
-width = 504;
+width = 600;
 },
 {
 anchors = (
@@ -109235,7 +109328,7 @@ shapes = (
 ref = baraccent;
 }
 );
-width = 504;
+width = 600;
 },
 {
 layerId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -109280,7 +109373,7 @@ nodes = (
 );
 }
 );
-width = 814;
+width = 600;
 },
 {
 anchors = (
@@ -109337,7 +109430,7 @@ shapes = (
 ref = baraccentlong;
 }
 );
-width = 814;
+width = 600;
 },
 {
 layerId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -109382,7 +109475,7 @@ nodes = (
 );
 }
 );
-width = 694;
+width = 600;
 },
 {
 anchors = (
@@ -109439,7 +109532,7 @@ shapes = (
 ref = baraccentmedium;
 }
 );
-width = 694;
+width = 600;
 },
 {
 layerId = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
@@ -109504,7 +109597,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -109640,7 +109733,7 @@ nodes = (
 );
 }
 );
-width = 445;
+width = 600;
 },
 {
 anchors = (
@@ -109806,7 +109899,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -109950,7 +110043,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -110135,7 +110228,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -110337,7 +110430,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -110553,7 +110646,7 @@ nodes = (
 );
 }
 );
-width = 540;
+width = 600;
 },
 {
 anchors = (
@@ -110661,7 +110754,7 @@ nodes = (
 );
 }
 );
-width = 540;
+width = 600;
 },
 {
 anchors = (
@@ -110784,7 +110877,7 @@ nodes = (
 );
 }
 );
-width = 540;
+width = 600;
 },
 {
 anchors = (
@@ -110937,7 +111030,7 @@ nodes = (
 );
 }
 );
-width = 540;
+width = 600;
 },
 {
 anchors = (
@@ -111626,7 +111719,7 @@ nodes = (
 );
 }
 );
-width = 492;
+width = 600;
 },
 {
 anchors = (
@@ -111796,7 +111889,7 @@ nodes = (
 );
 }
 );
-width = 445;
+width = 600;
 },
 {
 anchors = (
@@ -111959,7 +112052,7 @@ nodes = (
 );
 }
 );
-width = 492;
+width = 600;
 },
 {
 anchors = (
@@ -112127,7 +112220,7 @@ nodes = (
 );
 }
 );
-width = 492;
+width = 600;
 },
 {
 anchors = (
@@ -112252,7 +112345,7 @@ nodes = (
 );
 }
 );
-width = 492;
+width = 600;
 },
 {
 anchors = (
@@ -112379,7 +112472,7 @@ nodes = (
 );
 }
 );
-width = 492;
+width = 600;
 },
 {
 anchors = (
@@ -112604,7 +112697,7 @@ nodes = (
 );
 }
 );
-width = 337;
+width = 600;
 },
 {
 anchors = (
@@ -113211,7 +113304,7 @@ pos = (-142,0);
 ref = ring;
 }
 );
-width = 340;
+width = 600;
 },
 {
 anchors = (
@@ -113334,7 +113427,7 @@ nodes = (
 );
 }
 );
-width = 484;
+width = 600;
 },
 {
 anchors = (
@@ -113511,7 +113604,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -113640,7 +113733,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -113784,7 +113877,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114119,7 +114212,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114271,7 +114364,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114379,7 +114472,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114502,7 +114595,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114655,7 +114748,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -114901,7 +114994,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -115048,7 +115141,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -115216,7 +115309,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -115341,7 +115434,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -115468,7 +115561,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -115585,7 +115678,7 @@ nodes = (
 );
 }
 );
-width = 260;
+width = 600;
 },
 {
 anchors = (
@@ -115667,7 +115760,7 @@ pos = (-141,-1);
 ref = ring.cap;
 }
 );
-width = 342;
+width = 600;
 },
 {
 anchors = (
@@ -115796,7 +115889,7 @@ nodes = (
 );
 }
 );
-width = 505;
+width = 600;
 },
 {
 anchors = (
@@ -116006,7 +116099,7 @@ nodes = (
 );
 }
 );
-width = 576;
+width = 600;
 },
 {
 anchors = (
@@ -116466,21 +116559,31 @@ width = 600;
 instances = (
 {
 axesValues = (
+0
+);
+customParameters = (
+{
+name = "Variable Font Origin";
+value = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
+}
+);
+exports = 0;
+instanceInterpolations = {
+"1E610136-9B4E-49B0-BDBC-BF9A1AAA9445" = 1.1875;
+"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = -0.125;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = -0.0625;
+};
+name = Regular;
+type = variable;
+},
+{
+axesValues = (
 100
 );
 customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116489,25 +116592,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoThinItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Thin-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Thin Italic";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -116518,15 +116602,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116536,25 +116611,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraLight-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraLight Italic";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -116565,15 +116621,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116583,25 +116630,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Light-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Light Italic";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -116612,15 +116640,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116629,25 +116648,6 @@ instanceInterpolations = {
 };
 isItalic = 1;
 name = Italic;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Italic";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -116657,15 +116657,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116674,25 +116665,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoMediumItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Medium-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Medium Italic";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -116703,43 +116675,15 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
 }
 );
 instanceInterpolations = {
-"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.8;
-"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.2;
+"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.75;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.25;
 };
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoSemiBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-SemiBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono SemiBold Italic";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -116750,43 +116694,15 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 instanceInterpolations = {
-"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.6;
-"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.4;
+"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.5;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.5;
 };
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Bold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Bold Italic";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -116797,43 +116713,15 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-}
-);
 }
 );
 instanceInterpolations = {
-"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.4;
-"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.6;
+"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.25;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.75;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraBold Italic";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -116844,60 +116732,15 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 instanceInterpolations = {
-"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = 0.2;
-"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 0.8;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = 1;
 };
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBlackItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Black-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Black Italic";
-}
-);
-}
-);
 weightClass = 900;
-},
-{
-axesValues = (
-0
-);
-customParameters = (
-{
-name = "Variable Font Origin";
-value = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
-}
-);
-instanceInterpolations = {
-"1E610136-9B4E-49B0-BDBC-BF9A1AAA9445" = 1;
-};
-name = Regular;
-type = variable;
 }
 );
 metrics = (
@@ -116926,7 +116769,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo) with Reserved Font Name \"Chivo\".";
+value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
 }
 );
 },
@@ -116974,7 +116817,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
@@ -117001,5 +116844,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 8;
 }
