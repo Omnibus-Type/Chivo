@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"/f_f"
-);
 axes = (
 {
 name = Weight;
@@ -79176,6 +79173,7 @@ value = "--default-script=latn --fallback-script=latp --windows-compatibility --
 instanceInterpolations = {
 "4BBFD287-7A5F-4332-B846-65FFBCBF0D57" = 1;
 };
+linkStyle = Thin;
 name = "Thin Italic";
 weightClass = 100;
 },
@@ -79193,6 +79191,7 @@ instanceInterpolations = {
 "4BBFD287-7A5F-4332-B846-65FFBCBF0D57" = 0.75;
 "EDCD8328-1E0F-4D00-9253-D58387328EFF" = 0.25;
 };
+linkStyle = ExtraLight;
 name = "ExtraLight Italic";
 weightClass = 200;
 },
@@ -79210,6 +79209,7 @@ instanceInterpolations = {
 "4BBFD287-7A5F-4332-B846-65FFBCBF0D57" = 0.5;
 "EDCD8328-1E0F-4D00-9253-D58387328EFF" = 0.5;
 };
+linkStyle = Light;
 name = "Light Italic";
 weightClass = 300;
 },
@@ -79242,6 +79242,7 @@ value = "--default-script=latn --fallback-script=latp --windows-compatibility --
 instanceInterpolations = {
 "EDCD8328-1E0F-4D00-9253-D58387328EFF" = 1;
 };
+linkStyle = Medium;
 name = "Medium Italic";
 weightClass = 500;
 },
@@ -79259,6 +79260,7 @@ instanceInterpolations = {
 "4FDE33F5-0064-4818-A7C2-FB87252213B5" = 0.25;
 "EDCD8328-1E0F-4D00-9253-D58387328EFF" = 0.75;
 };
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = 600;
 },
@@ -79295,6 +79297,7 @@ instanceInterpolations = {
 "4FDE33F5-0064-4818-A7C2-FB87252213B5" = 0.75;
 "EDCD8328-1E0F-4D00-9253-D58387328EFF" = 0.25;
 };
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = 800;
 },
@@ -79311,6 +79314,8 @@ value = "--default-script=latn --fallback-script=latp --windows-compatibility --
 instanceInterpolations = {
 "4FDE33F5-0064-4818-A7C2-FB87252213B5" = 1;
 };
+isItalic = 1;
+linkStyle = Black;
 name = "Black Italic";
 weightClass = 900;
 }
