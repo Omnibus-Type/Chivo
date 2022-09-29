@@ -1,5 +1,5 @@
 {
-.appVersion = "3135";
+.appVersion = "3133";
 .formatVersion = 3;
 axes = (
 {
@@ -103,23 +103,6 @@ value = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 {
 name = blueScale;
 value = 0.09996;
-},
-{
-disabled = 1;
-name = "Axis Mappings";
-value = {
-wght = {
-100 = 100;
-200 = 200;
-300 = 300;
-400 = 400;
-500 = 500;
-600 = 600;
-700 = 700;
-800 = 800;
-900 = 900;
-};
-};
 }
 );
 date = "2022-04-05 15:09:31 +0000";
@@ -583,15 +566,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -660,7 +634,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -738,15 +712,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -815,7 +780,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -892,15 +857,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -969,7 +925,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -34490,6 +34446,12 @@ kernLeft = f;
 kernRight = f;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (318,0);
+}
+);
 layerId = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 shapes = (
 {
@@ -34545,6 +34507,12 @@ nodes = (
 width = 636;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (409,0);
+}
+);
 layerId = "B61048DD-A105-4E1B-AF86-BB1631F6D87A";
 shapes = (
 {
@@ -34600,6 +34568,12 @@ nodes = (
 width = 818;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (358.5,0);
+}
+);
 layerId = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 shapes = (
 {
@@ -34665,6 +34639,16 @@ kernLeft = f;
 kernRight = i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (285.333,0);
+},
+{
+name = caret_2;
+pos = (570.667,0);
+}
+);
 layerId = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 shapes = (
 {
@@ -34738,6 +34722,16 @@ nodes = (
 width = 856;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (375,0);
+},
+{
+name = caret_2;
+pos = (750,0);
+}
+);
 layerId = "B61048DD-A105-4E1B-AF86-BB1631F6D87A";
 shapes = (
 {
@@ -34811,6 +34805,16 @@ nodes = (
 width = 1125;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (325.333,0);
+},
+{
+name = caret_2;
+pos = (650.667,0);
+}
+);
 layerId = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 shapes = (
 {
@@ -34894,6 +34898,16 @@ kernLeft = f;
 kernRight = l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (284.667,0);
+},
+{
+name = caret_2;
+pos = (569.333,0);
+}
+);
 layerId = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 shapes = (
 {
@@ -34958,6 +34972,16 @@ nodes = (
 width = 854;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (375.333,0);
+},
+{
+name = caret_2;
+pos = (750.667,0);
+}
+);
 layerId = "B61048DD-A105-4E1B-AF86-BB1631F6D87A";
 shapes = (
 {
@@ -35022,6 +35046,16 @@ nodes = (
 width = 1126;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (325,0);
+},
+{
+name = caret_2;
+pos = (650,0);
+}
+);
 layerId = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 shapes = (
 {
@@ -35096,6 +35130,12 @@ kernLeft = f;
 kernRight = i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300.5,0);
+}
+);
 layerId = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 shapes = (
 {
@@ -35149,6 +35189,12 @@ nodes = (
 width = 601;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (350.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -35253,6 +35299,12 @@ nodes = (
 width = 701;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (322.5,0);
+}
+);
 layerId = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 shapes = (
 {
@@ -35316,6 +35368,12 @@ kernLeft = f;
 kernRight = l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (303.5,0);
+}
+);
 layerId = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
 shapes = (
 {
@@ -35360,6 +35418,12 @@ nodes = (
 width = 607;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (351.5,0);
+}
+);
 layerId = "B61048DD-A105-4E1B-AF86-BB1631F6D87A";
 shapes = (
 {
@@ -35404,6 +35468,12 @@ nodes = (
 width = 703;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (325,0);
+}
+);
 layerId = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 shapes = (
 {
@@ -78247,6 +78317,7 @@ wght = {
 };
 }
 );
+exports = 0;
 instanceInterpolations = {
 "F84504BD-929B-4EC5-838D-CC63F45B30C5" = 1;
 };
@@ -78272,40 +78343,12 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
 "F84504BD-929B-4EC5-838D-CC63F45B30C5" = 1;
 };
 name = Thin;
-properties = (
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Thin";
-}
-);
-},
-{
-key = postscriptFullName;
-value = ChivoThin;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Thin";
-}
-);
 weightClass = 100;
 },
 {
@@ -78316,15 +78359,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78332,25 +78366,6 @@ instanceInterpolations = {
 "F84504BD-929B-4EC5-838D-CC63F45B30C5" = 0.75;
 };
 name = ExtraLight;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoExtraLight;
-},
-{
-key = postscriptFontName;
-value = "Chivo-ExtraLight";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo ExtraLight";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -78361,15 +78376,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78377,25 +78383,6 @@ instanceInterpolations = {
 "F84504BD-929B-4EC5-838D-CC63F45B30C5" = 0.5;
 };
 name = Light;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoLight;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Light";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Light";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -78406,15 +78393,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78422,25 +78400,6 @@ instanceInterpolations = {
 "F84504BD-929B-4EC5-838D-CC63F45B30C5" = 0.25;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoRegular;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Regular";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Regular";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -78450,40 +78409,12 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
 }
 );
 instanceInterpolations = {
 "D456B91C-7AE2-46C5-8C20-B2F338249762" = 1;
 };
 name = Medium;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMedium;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Medium";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Medium";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -78494,15 +78425,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78510,25 +78432,6 @@ instanceInterpolations = {
 "D456B91C-7AE2-46C5-8C20-B2F338249762" = 0.75;
 };
 name = SemiBold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoSemiBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-SemiBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo SemiBold";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -78539,15 +78442,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78556,25 +78450,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Bold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Bold";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -78585,15 +78460,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -78601,25 +78467,6 @@ instanceInterpolations = {
 "D456B91C-7AE2-46C5-8C20-B2F338249762" = 0.25;
 };
 name = ExtraBold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoExtraBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-ExtraBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo ExtraBold";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -78630,40 +78477,12 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 instanceInterpolations = {
 "B61048DD-A105-4E1B-AF86-BB1631F6D87A" = 1;
 };
 name = Black;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoBlack;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Black";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Black";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
@@ -81528,5 +81347,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
