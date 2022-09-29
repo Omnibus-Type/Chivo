@@ -1,5 +1,5 @@
 {
-.appVersion = "3137";
+.appVersion = "3133";
 .formatVersion = 3;
 axes = (
 {
@@ -60,23 +60,6 @@ size = 0;
 {
 name = blueScale;
 value = 0.09996;
-},
-{
-disabled = 1;
-name = "Axis Mappings";
-value = {
-wght = {
-100 = 100;
-200 = 200;
-300 = 300;
-400 = 400;
-500 = 500;
-600 = 600;
-700 = 700;
-800 = 800;
-900 = 900;
-};
-};
 }
 );
 date = "2022-04-05 16:31:38 +0000";
@@ -497,15 +480,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -658,15 +632,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -813,15 +778,6 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = a;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 1000;
-}
-);
 },
 {
 name = TTFStems;
@@ -116472,15 +116428,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116489,25 +116436,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoThinItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Thin-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Thin Italic";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -116518,15 +116446,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116536,25 +116455,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraLight-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraLight Italic";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -116565,15 +116465,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116583,25 +116474,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Light-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Light Italic";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -116612,15 +116484,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116629,25 +116492,6 @@ instanceInterpolations = {
 };
 isItalic = 1;
 name = Italic;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Italic";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -116657,15 +116501,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116674,25 +116509,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoMediumItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Medium-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Medium Italic";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -116703,15 +116519,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116721,25 +116528,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoSemiBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-SemiBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono SemiBold Italic";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -116750,15 +116538,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116768,25 +116547,6 @@ instanceInterpolations = {
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Bold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Bold Italic";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -116797,15 +116557,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116815,25 +116566,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraBold Italic";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -116844,15 +116576,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116862,25 +116585,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBlackItalic;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Black-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Black Italic";
-}
-);
-}
-);
 weightClass = 900;
 },
 {
@@ -116893,8 +116597,11 @@ name = "Variable Font Origin";
 value = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
 }
 );
+exports = 0;
 instanceInterpolations = {
-"1E610136-9B4E-49B0-BDBC-BF9A1AAA9445" = 1;
+"1E610136-9B4E-49B0-BDBC-BF9A1AAA9445" = 1.18056;
+"56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D" = -0.125;
+"C8A46E0E-B991-4CFC-ABD9-554F5B3B1198" = -0.05556;
 };
 name = Regular;
 type = variable;
@@ -116926,7 +116633,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo) with Reserved Font Name \"Chivo\".";
+value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
 }
 );
 },
@@ -116974,7 +116681,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },

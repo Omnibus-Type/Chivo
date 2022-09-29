@@ -1,18 +1,6 @@
 {
-.appVersion = "3137";
+.appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"îǐĩīĭïĵȋ/itilde.001/itilde.002",
-"˜/tilde.cap/tildecomb.cap",
-"¯ˍ̄/macronbelow ̱/macroncomb.narrow/macroncomb.low/macroncomb.cap/dieresiscomb_macroncomb/dotaccentcomb_macroncomb/tildecomb_macroncomb/dieresiscomb_macroncomb.cap/dotaccentcomb_macroncomb.cap/tildecomb_macroncomb.cap/macron.cap/dieresismacron/dotaccentmacron/tildemacron/dieresismacron.cap/dotaccentmacron.cap/tildemacron.cap",
-"/grave.cap/acute.cap/circumflex.cap/tilde.cap/macron.cap/breve.cap/dotaccent.cap/dieresis.cap/ring.cap/hungarumlaut.cap/caron.cap",
-"HHLHHOOLOO
-D̵Ð",
-"ĹĹĻĻĽĽŁŁ",
-"/_smart.strokeshortcomb ɨ/idotlessstroke ʉ",
-"/_smart.strokeshortcomb.cap ƗɄ",
-"HȎO"
-);
 axes = (
 {
 name = Weight;
@@ -515,15 +503,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -592,7 +571,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -674,15 +653,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -751,7 +721,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -832,15 +802,6 @@ name = "Master Icon Glyph Name";
 value = a;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
-},
-{
 name = TTFStems;
 value = (
 {
@@ -909,7 +870,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -116534,6 +116495,7 @@ wght = {
 };
 }
 );
+exports = 0;
 instanceInterpolations = {
 "1B515DD0-5446-4609-BD2C-839EAA0AE6A8" = 1.1875;
 "2883A7C2-0A22-4F0A-A898-75B9BDC585A4" = -0.0625;
@@ -116561,40 +116523,12 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
 "1B515DD0-5446-4609-BD2C-839EAA0AE6A8" = 1;
 };
 name = Thin;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoThin;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Thin";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Thin";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -116605,15 +116539,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116621,25 +116546,6 @@ instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 0.25;
 };
 name = ExtraLight;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraLight;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraLight";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraLight";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -116650,15 +116556,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116666,25 +116563,6 @@ instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 0.5;
 };
 name = Light;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoLight;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Light";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Light";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -116695,15 +116573,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116711,25 +116580,6 @@ instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 0.75;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoRegular;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Regular";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Regular";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -116739,40 +116589,12 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
 }
 );
 instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 1;
 };
 name = Medium;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoMedium;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Medium";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Medium";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -116783,15 +116605,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116799,25 +116612,6 @@ instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 0.75;
 };
 name = SemiBold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoSemiBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-SemiBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono SemiBold";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -116828,15 +116622,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116845,25 +116630,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Bold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Bold";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -116874,15 +116640,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -116890,25 +116647,6 @@ instanceInterpolations = {
 "A193C231-D910-4739-84D4-C6814F8A1DBE" = 0.25;
 };
 name = ExtraBold;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoExtraBold;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-ExtraBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono ExtraBold";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -116919,88 +116657,13 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 instanceInterpolations = {
 "2883A7C2-0A22-4F0A-A898-75B9BDC585A4" = 1;
 };
 name = Black;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoBlack;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Black";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Black";
-}
-);
-}
-);
 weightClass = 900;
-},
-{
-axesValues = (
-1000
-);
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 1000;
-}
-);
-}
-);
-exports = 0;
-instanceInterpolations = {
-"1B515DD0-5446-4609-BD2C-839EAA0AE6A8" = -0.0625;
-"2883A7C2-0A22-4F0A-A898-75B9BDC585A4" = 1.1875;
-"A193C231-D910-4739-84D4-C6814F8A1DBE" = -0.125;
-};
-name = Heavy;
-properties = (
-{
-key = postscriptFullName;
-value = ChivoMonoHeavy;
-},
-{
-key = postscriptFontName;
-value = "Chivo-Mono-Heavy";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Chivo Mono Heavy";
-}
-);
-}
-);
-weightClass = 1000;
 }
 );
 metrics = (
@@ -117030,7 +116693,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo) with Reserved Font Name \"Chivo\".";
+value = "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)";
 }
 );
 },
@@ -117116,5 +116779,5 @@ HV = "200";
 LWPluginVersion = "1429";
 };
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 8;
 }
