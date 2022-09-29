@@ -60,6 +60,25 @@ size = 0;
 {
 name = blueScale;
 value = 0.09996;
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = panose;
+value = (
+2,
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0
+);
 }
 );
 date = "2022-04-05 16:31:38 +0000";
@@ -548,7 +567,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -700,7 +719,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -848,7 +867,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 937;
+value = 1151;
 },
 {
 name = winDescent;
@@ -48804,6 +48823,12 @@ color = 4;
 glyphname = f_f;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -48956,6 +48981,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49144,6 +49175,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -49250,6 +49287,16 @@ color = 4;
 glyphname = f_f_i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49443,6 +49490,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49648,6 +49705,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -49777,6 +49844,16 @@ color = 4;
 glyphname = f_f_l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -49909,6 +49986,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50047,6 +50134,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -50173,6 +50270,12 @@ color = 4;
 glyphname = fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50311,6 +50414,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50463,6 +50572,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -50567,6 +50682,12 @@ color = 4;
 glyphname = fl;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50703,6 +50824,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -50850,6 +50977,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -116708,5 +116841,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 8;
 }

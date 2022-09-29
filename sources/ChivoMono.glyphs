@@ -77,6 +77,25 @@ wght = {
 900 = 900;
 };
 };
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = panose;
+value = (
+2,
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0
+);
 }
 );
 date = "2022-04-05 15:35:49 +0000";
@@ -53383,6 +53402,12 @@ color = 4;
 glyphname = f_f;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -53468,6 +53493,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -53564,6 +53595,12 @@ layerId = "26F5AAB6-2055-4371-9743-1825ED82AB6B";
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -53656,6 +53693,16 @@ color = 4;
 glyphname = f_f_i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -53856,6 +53903,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -54057,6 +54114,16 @@ layerId = "26F5AAB6-2055-4371-9743-1825ED82AB6B";
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -54193,6 +54260,16 @@ color = 4;
 glyphname = f_f_l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -54359,6 +54436,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 background = {
 shapes = (
 {
@@ -54535,6 +54622,16 @@ layerId = "26F5AAB6-2055-4371-9743-1825ED82AB6B";
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (200,0);
+},
+{
+name = caret_2;
+pos = (400,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -54646,6 +54743,12 @@ color = 4;
 glyphname = fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -54786,6 +54889,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -54931,6 +55040,12 @@ layerId = "26F5AAB6-2055-4371-9743-1825ED82AB6B";
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -55026,6 +55141,12 @@ color = 4;
 glyphname = fl;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -55150,6 +55271,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 background = {
 shapes = (
 {
@@ -55279,6 +55406,12 @@ layerId = "26F5AAB6-2055-4371-9743-1825ED82AB6B";
 width = 600;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (300,0);
+}
+);
 hints = (
 {
 horizontal = 1;
