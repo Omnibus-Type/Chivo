@@ -98,7 +98,7 @@ size = 0;
 },
 {
 name = "Variable Font Origin";
-value = "F84504BD-929B-4EC5-838D-CC63F45B30C5";
+value = "D456B91C-7AE2-46C5-8C20-B2F338249762";
 },
 {
 name = blueScale;
@@ -638,7 +638,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -784,7 +784,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -929,7 +929,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
