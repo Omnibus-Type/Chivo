@@ -1,5 +1,5 @@
 {
-.appVersion = "3133";
+.appVersion = "3140";
 .formatVersion = 3;
 axes = (
 {
@@ -25379,6 +25379,85 @@ width = 268;
 }
 );
 unicode = 7883;
+},
+{
+color = 3;
+glyphname = idotlessstroke;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (346,-67);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = "4BBFD287-7A5F-4332-B846-65FFBCBF0D57";
+shapes = (
+{
+pos = (5,0);
+ref = idotless;
+},
+{
+closed = 1;
+nodes = (
+(44,254,l),
+(204,254,l),
+(210,300,l),
+(50,300,l)
+);
+}
+);
+width = 260;
+},
+{
+layerId = "EDCD8328-1E0F-4D00-9253-D58387328EFF";
+shapes = (
+{
+pos = (-7,0);
+ref = idotless;
+},
+{
+closed = 1;
+nodes = (
+(-7,232,l),
+(246,232,l),
+(260,326,l),
+(7,326,l)
+);
+}
+);
+width = 268;
+},
+{
+background = {
+shapes = (
+{
+pos = (415,-67);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = "4FDE33F5-0064-4818-A7C2-FB87252213B5";
+shapes = (
+{
+pos = (-4,0);
+ref = idotless;
+},
+{
+closed = 1;
+nodes = (
+(-20,198,l),
+(280,198,l),
+(298,326,l),
+(-2,326,l)
+);
+}
+);
+width = 296;
+}
+);
 },
 {
 color = 1;
@@ -81268,6 +81347,9 @@ key = licenseURL;
 value = "https://scripts.sil.org/OFL";
 }
 );
+settings = {
+disablesNiceNames = 1;
+};
 stems = (
 {
 horizontal = 1;
