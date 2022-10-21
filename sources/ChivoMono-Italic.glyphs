@@ -82,7 +82,7 @@ value = (
 },
 {
 name = "Variable Font Origin";
-value = "1E610136-9B4E-49B0-BDBC-BF9A1AAA9445";
+value = "56C8974D-A8FC-4FE2-AFFA-564C2D1D7F2D";
 }
 );
 date = "2022-04-05 16:31:38 +0000";
@@ -575,7 +575,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -727,7 +727,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -875,7 +875,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;

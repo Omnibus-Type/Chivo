@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Acaron Atilde Amacron Abreve Adieresis Aring Aogonek Aringacute AE AEacute Cacute Ccircumflex Cdotaccent Ccaron Ccedilla Dcaron Dcroat Egrave Eacute Ecircumflex Etilde Emacron Ebreve Edotaccent Edieresis Ecaron Eogonek Gcircumflex Gbreve Gdotaccent Gcommaaccent Gstroke Hcircumflex Hbar Igrave Iacute Icircumflex Icaron Itilde Imacron Ibreve Idotaccent Idieresis Iogonek Istroke Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ntilde Ncaron Ncommaaccent Eng Ograve Oacute Ocircumflex Ocaron Otilde Omacron Obreve Odieresis Ohungarumlaut Oslash Oslashacute OE Racute Rcaron Rcommaaccent Sacute Scircumflex Scaron Scommaaccent Scedilla Tcaron Tcommaaccent Tcedilla Tbar Ugrave Uacute Ucircumflex Ucaron Utilde Umacron Ubreve Udieresis Uring Uhungarumlaut Uogonek Ubar Wgrave Wacute Wcircumflex Wdieresis Ygrave Yacute Ycircumflex Ytilde Ymacron Ydieresis Zacute Zdotaccent Zcaron Eth Thorn IJ Delta Omega Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adotbelow Ahookabove Ainvertedbreve DZcaron Dzcaron Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotbelow Ehookabove Einvertedbreve Schwa Fhook Gcaron Hdotbelow Idblgrave Idotbelow Ihookabove Iinvertedbreve LJ Lj NJ Nhookleft Nj Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oinvertedbreve Oogonek Otildemacron Rdblgrave Rinvertedbreve Sdotbelow Germandbls Tdotbelow Udblgrave Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uinvertedbreve Ydotbelow Yhookabove Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F Fhook G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Istroke Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Nhookleft Nj Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ubar Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega";
 name = Uppercase;
 }
 );
@@ -82,7 +82,7 @@ value = (
 },
 {
 name = "Variable Font Origin";
-value = "1B515DD0-5446-4609-BD2C-839EAA0AE6A8";
+value = "A193C231-D910-4739-84D4-C6814F8A1DBE";
 }
 );
 date = "2022-04-05 15:35:49 +0000";
@@ -279,11 +279,11 @@ tag = sinf;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
 sub two by twosuperior;
 sub three by threesuperior;
 sub four by foursuperior;
-sub zero by zerosuperior;
 sub five by fivesuperior;
 sub six by sixsuperior;
 sub seven by sevensuperior;
@@ -581,7 +581,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -731,7 +731,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
@@ -880,7 +880,7 @@ value = 1151;
 },
 {
 name = winDescent;
-value = 250;
+value = 413;
 },
 {
 name = hheaAscender;
